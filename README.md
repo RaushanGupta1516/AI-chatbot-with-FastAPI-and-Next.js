@@ -189,8 +189,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 ## 📸 Screenshots
 
-> Add screenshots inside a `screenshots/` folder and update paths below.
-
 | Chat Interface | Sidebar | Personality Modes |
 |---|---|---|
 | ![Chat UI](screenshots/chat.png) | ![Sidebar](screenshots/sidebar.png) | ![Personalities](screenshots/personality.png) |
